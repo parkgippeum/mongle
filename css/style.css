@@ -242,7 +242,7 @@ input[id="menuicon"]:checked+label+div{
     bottom: 80px;
     animation:bounce 0.8s ease-in Infinite Alternate;
 }
-@keyframes bounce {
+/* @keyframes bounce {
     0% {
       bottom:270px;
     }
@@ -254,7 +254,7 @@ input[id="menuicon"]:checked+label+div{
       width:200px;
       height:20px;
     } 
-  }
+  } */
 
 .character01 img{width: 200px;
     height: 194px;
